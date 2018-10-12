@@ -1,3 +1,5 @@
+#Oct-12-2018
+
 def calcFallTime(t, v, h):
     h=-16*t*t+v*t+h
     return h
